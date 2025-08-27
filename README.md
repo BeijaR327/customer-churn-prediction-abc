@@ -6,6 +6,10 @@ This project builds predictive models to identify customers at **high risk of at
 The goal is to assign each customer a **churn probability (0–1)** so ABC can take proactive retention actions.  
 Models compared: Logistic Regression, Random Forest, and Gradient Boosting with hyperparameter tuning.
 
+## Data Dashboard
+🔗 (https://claude.ai/public/artifacts/6c3fd3bc-8a21-4b61-a91c-b2adf96a0d43)
+
+
 
 ## 🚀 Installation & Usage
 
