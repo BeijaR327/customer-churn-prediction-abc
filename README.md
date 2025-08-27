@@ -6,6 +6,8 @@ This project builds predictive models to identify customers at **high risk of at
 The goal is to assign each customer a **churn probability (0–1)** so ABC can take proactive retention actions.  
 Models compared: Logistic Regression, Random Forest, and Gradient Boosting with hyperparameter tuning.
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/BeijaR327/customer-churn-prediction-abc/blob/main/notebooks/Churn_Dashboard_Colab.ipynb)
+
 ## 🚀 Installation & Usage
 
 1. Clone this repository:
